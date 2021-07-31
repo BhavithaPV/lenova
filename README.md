@@ -1,0 +1,2 @@
+# lenova
+my frist repo
