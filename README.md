@@ -1,2 +1,2 @@
-# lenova
+# Data analytics
 my frist repo
