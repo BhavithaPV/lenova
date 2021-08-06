@@ -1,0 +1,304 @@
+@media screen and (min-width:768px) {
+    .whole_body{
+        padding: 10px;
+    }   }       
+
+.consulting_services{
+    display: flex;
+}
+.data_analytics{
+    display: block;
+    margin-top:10px ;
+    padding:5px;
+    font-size: 20px;
+    margin-bottom: 20px;
+
+}
+.consulting_services img{
+    margin-left: 90px;
+}
+
+.buttons{
+    display: flex;
+    position: absolute;
+    margin-top:30px;
+}
+
+.aboutus button{
+    background-color: orangered;
+    color: white;
+    padding: 10px;
+    width:fit-content;
+    border: none;
+    font-size: 15px;
+    border-radius: 8px;
+    padding: 13px;
+    
+}
+.aboutus button:hover{
+    
+    background-color: black;
+}
+
+.watchvideo button{
+    margin-left: 50px;
+    margin-right: 10px;
+    border-radius: 60px;
+    background-color: white;
+    border:none;
+    color: orangered;
+}
+.watchvideo button:hover{
+    color:orangered;
+    background-color:white;
+}
+span{
+    color: orangered;
+    font-size:18px;
+}
+
+.data_analytics img{
+    position: absolute;
+    
+}
+p1{
+    font-size: 18px;
+}
+
+.analytics{
+    display: flex;
+    margin-top: 70px;
+    margin-bottom: 30px;
+    margin-right: 30px;
+}
+.services img{
+    height: 20px;
+    width:20px;
+}
+.market_analytics {
+    text-align:center;
+    box-shadow: 0px 0px 3px;
+    padding: 20px;
+    margin-left:20px;
+}
+
+.market_analytics button{
+    color: orangered;
+    border-radius: 8px;
+    border:none;
+    background-color: white;
+    box-shadow: 0px 0px 3px;
+    padding: 10px;
+    align-content: center;
+}
+.market_analytics button:hover{
+    color:white;
+    background-color:orangered;
+}
+.container{
+    display: flex;
+    margin-top:50px;
+}
+.container img{
+    height:430px;
+    width:380px;
+    margin-right: 50px;
+}
+
+.business_analytics{
+    display: block;
+    padding: 15px;
+}
+.row{
+    display: flex;
+    padding: 20px;
+    
+}
+.row button{
+    background-color: rgb(226, 223, 223);
+    color:black;
+    border:none;
+    padding:3px;
+    margin-right: 10px;
+    margin-left:5px;
+}
+.row button:hover{
+    background-color: orangered;
+    color: white;
+}
+.coloumn{
+    padding:12px;
+    margin-right: 20px;
+    width:250px;
+    box-shadow: 0px 0px 3px;
+    position: relative;
+}
+.coloumn img{
+    margin-left:210px;
+    height: 45px;
+    width:50px;
+    position: absolute;
+}
+.data_science{
+    display:flex;
+    margin-top: 30px;
+}
+
+.our_mission img{
+    height: 430px;
+    width:380px;
+}
+.container2{
+    display:flex;
+    margin-top:50px;
+    margin-bottom:40px;
+}
+.box{
+    display:flex;
+    box-shadow: 0px 0px 3px;
+    padding: 12px;
+    margin-right:40px;
+    cursor: pointer;
+}
+.box :hover{
+    border-color:orangered;
+} 
+.box img{
+    margin-left: 30px;
+    margin-right: 30px;
+    position:relative;
+    height: 90px;
+    width: 70px;
+}
+.row1{
+    display: block;
+}
+.professional_sol{
+    font-size: 24px;
+    padding: 10px;
+    margin-top:30px;
+    text-align:center;
+    height:280px;
+    background-color: rgb(191, 248, 242);
+}
+.load_more button{
+    color: orangered;
+    border-radius: 8px;
+    border:none;
+    background-color: white;
+    box-shadow: 0px 0px 3px;
+    padding: 10px;
+    margin-left: 350px;
+}
+.load_more button:hover{
+    background-color: orangered;
+    color:white;
+}
+.process{
+    display: flex;
+    margin-top: 20px;
+    margin-right: 30px;
+}
+.process img{
+    height:500px;
+    margin-right:50px ;
+}
+.framework{
+    display: block;
+    margin-left: 80px;
+    
+}
+.row2{
+    display: flex;
+    width:400px;
+    box-shadow: 0px 0px 3px;
+    margin-top: 20px;
+}
+.row2 img{
+    background-color: rgb(191, 248, 242);
+    margin-right: 30px;
+    height:70px;
+}
+.ourteam{
+    display:flex;
+    margin-top:80px;
+    margin-bottom: 30px;
+}
+.team{
+    display: block;
+    background-image: url("images/backgroungimg.png");
+    width:450px;
+    height: 500px;
+}
+.scientist1 {
+    display: flex;
+}
+.scientist1 img{
+    margin-left: 50px;
+    height:180px;
+}
+
+.scientist2 img{
+    margin-left: 50px;
+    margin-top:10px;
+    height:170px;
+}
+.scientist3 img{
+    margin-top:120px;
+    margin-left:50px;
+    height:170px;
+}
+.data_scientist{
+    margin-left: 50px;
+    font-size: 24px;
+    text-align: center;
+}
+.startproject{
+    display: flex;
+    margin-top: 50px;
+    font-size: 24px; 
+    background-image: url("images/backgroungimg.png");  
+}
+.startproject img{
+    height: 400px;
+    width:420px;
+}
+.latest_insights{
+    margin-top: 10px;
+    display: flex;
+    background-image: url("images/backgroungimg.png");
+    margin-bottom: 100px;
+}
+.review1{
+    display:block;
+    margin-left:70px;
+    box-shadow:0px 0px 3px;
+    background-color: white;
+}
+.review1 img{
+    height:350px;
+    width:300px;
+
+}
+.person_name{
+    display: flex;
+    margin-top: 15px;
+    justify-content:space-around;
+    
+}
+.person_name img{
+    border-radius: 50px;
+    height:30px;
+    width:30px;
+    align-content: center;
+}
+p2{
+    color:rgb(87, 84, 84);
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+h3:hover{
+    color:orangered;
+}
